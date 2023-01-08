@@ -25,9 +25,11 @@
 	align-items: flex-end;
 }
 button{
- background-color:yellow;
+background-color:yellow;
 border-radius:10px;
 height:50px;
 width:70px;
+font-family:sans-serif;
+font-size:20px
 
 }
